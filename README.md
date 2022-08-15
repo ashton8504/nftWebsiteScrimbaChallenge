@@ -1,1 +1,1 @@
-# nftWebsiteScrimbaChallenge
+# NFT Website Scrimba Challenge
